@@ -12,3 +12,4 @@ Model trained on 1 single GPU(2080 Ti)
 ## Reference
 Code modified from:  
 https://github.com/microsoft/Swin-Transformer
+https://github.com/WangFeng18/Swin-Transformer
