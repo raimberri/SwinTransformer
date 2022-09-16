@@ -11,5 +11,5 @@ Model trained on 1 single GPU(2080 Ti)
 |22 Epochs | 53.50%   |     78.14% |
 ## Reference
 Code modified from:  
-https://github.com/microsoft/Swin-Transformer 
+https://github.com/microsoft/Swin-Transformer  
 https://github.com/WangFeng18/Swin-Transformer
