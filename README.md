@@ -5,9 +5,10 @@ SwinTransformer pytorch implementation for self-learning.
 2. Python 3.10
 3. PyTorch 1.11
 ## Results
-|    | VGG126 | Resnet50 |
+Model trained on 1 single GPU(2080 Ti)
+|    | ACC@1 | ACC@5 |
 |:-:|:-:|:-:|
-|mAP | 1.8%   |     0.5% |
+|22 Epochs | 53.5%   |     0.5% |
 ## Reference
 Code modified from:  
 https://github.com/sgrvinod/a-PyTorch-Tutorial-to-Object-Detection  
