@@ -8,9 +8,7 @@ SwinTransformer pytorch implementation for self-learning.
 Model trained on 1 single GPU(2080 Ti)
 |    | ACC@1 | ACC@5 |
 |:-:|:-:|:-:|
-|22 Epochs | 53.5%   |     0.5% |
+|22 Epochs | 53.50%   |     78.14% |
 ## Reference
 Code modified from:  
-https://github.com/sgrvinod/a-PyTorch-Tutorial-to-Object-Detection  
-https://github.com/amdegroot/ssd.pytorch  
-https://github.com/lufficc/SSD
+https://github.com/microsoft/Swin-Transformer
